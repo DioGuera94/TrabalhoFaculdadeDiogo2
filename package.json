@@ -1,25 +1,27 @@
 {
-  "name": "projetoaulaaovivo1ppi",
+  "name": "projetoaulaaovivo3ppi",
   "version": "1.0.0",
-  "description": "Primeiros passos para desenvolvimento de aplicação web com Node/JS",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rfsgoncalves/ProjetoAulaAoVivo1PPI.git"
+    "url": "git+https://github.com/rfsgoncalves/ProjetoAulaAoVivo3PPI.git"
   },
-  "author": "Renato Gonçalves",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo1PPI/issues"
+    "url": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo3PPI/issues"
   },
-  "homepage": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo1PPI#readme",
+  "homepage": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo3PPI#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.7",
     "express": "^4.21.1",
-    "express-session": "^1.18.1"
+    "express-session": "^1.18.1",
+    "nodemon": "^3.1.7"
   }
 }
