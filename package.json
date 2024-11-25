@@ -1,5 +1,5 @@
 {
-  "name": "projetoaulaaovivo3ppi",
+  "name": "trabalhodiogo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rfsgoncalves/ProjetoAulaAoVivo3PPI.git"
+    "url": "git+https://github.com/DioGuera94/TrabalhoFaculdadeDiogo2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo3PPI/issues"
+    "url": "https://github.com/DioGuera94/TrabalhoFaculdadeDiogo2/issues"
   },
-  "homepage": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo3PPI#readme",
+  "homepage": "https://github.com/DioGuera94/TrabalhoFaculdadeDiogo2#readme",
   "dependencies": {
     "cookie-parser": "^1.4.7",
     "express": "^4.21.1",
