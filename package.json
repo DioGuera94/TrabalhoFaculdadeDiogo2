@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo1PPI#readme",
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "express-session": "^1.18.1"
   }
 }
