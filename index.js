@@ -22,7 +22,7 @@ app.use(cookieParser());
 
 app.use(express.urlencoded({ extended: true }));
 
-app.use(express.static('./pages/public'));
+app.use(express.static('./public'));
 
 const porta = 3000;
 const host = '0.0.0.0';
